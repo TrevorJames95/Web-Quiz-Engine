@@ -13,4 +13,6 @@ The backend of a web based quiz engine.
 * H2 Embeded
 * Postman for testing purposes
 * REST API
-
+## Possible Applications
+* Could be used to create a triva platform with some form of a point system for users.
+* Could be used for creating quizzes to help students practice concepts.
