@@ -12,4 +12,5 @@ The backend of a web based quiz engine.
 * Java
 * H2 Embeded
 * Postman for testing purposes
+* REST API
 
